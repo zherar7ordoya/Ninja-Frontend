@@ -1,12 +1,16 @@
 {
-  "name": "frontend",
+  "name": "ninja-frontend",
   "version": "0.1.0",
+  "author": "Gerardo Tordoya <zherar7ordoya@outlook.me> (zherar7ordoya.github.io)",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.0",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^15.5.0",
     "react": "^17.0.1",
+    "react-apollo": "^3.1.5",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.0"

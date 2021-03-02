@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# GraphQL Tutorial
+
+In this series we'll be creating, from scratch, a full-stack application, including a GraphQL server on Node.js, a React front-end (with Apollo) and MongoDB to store all of our data: [YouTube Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
